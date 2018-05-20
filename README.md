@@ -1,5 +1,8 @@
 # TODO List
 
+* [ ] CCPC2017哈尔滨(HDU6230-6242)(0/13)
+* [ ] ICPC2017北京(Hiho1627-1636)(0/10) 
+
 * [x] TCO14 Round 1A 250
 * [x] TCO14 Round 1A 500
 * [ ] TCO14 Round 1A 1000
