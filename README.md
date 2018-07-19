@@ -2,6 +2,7 @@
 
 * [ ] CCPC2017哈尔滨(HDU6230-6242)(0/13)
 * [ ] ICPC2017北京(Hiho1627-1636)(0/10) 
+* [ ] Newcoder1(0/10)
 
 * [x] TCO14 Round 1A 250
 * [x] TCO14 Round 1A 500
@@ -48,3 +49,10 @@
 * [ ] Codeforces Round #457 B
 * [ ] Codeforces Round #457 D
 * [ ] Codeforces Round #457 E
+
+
+https://www.cnblogs.com/jszkc/p/7309468.html
+* [ ] codeforces 348D
+* [ ] HDU 5852
+https://blog.csdn.net/sdfzchy/article/details/78307534
+* [ ] CF622F
