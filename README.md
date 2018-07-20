@@ -4,6 +4,7 @@
 * [ ] ICPC2017北京(Hiho1627-1636)(0/10) 
 * [ ] Nowcoder1(3/10)
 
+
 * [x] TCO14 Round 1A 250
 * [x] TCO14 Round 1A 500
 * [ ] TCO14 Round 1A 1000
