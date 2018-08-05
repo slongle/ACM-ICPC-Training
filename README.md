@@ -61,3 +61,28 @@ https://blog.csdn.net/qq_35649707/article/details/78018944
 * [ ] BZOJ4559  
 * [ ] BZOJ2655  
 * [ ] BZOJ3453  
+
+Wannafly Camp 2018
+* [ ] Day1 Birthday
+* [ ] Day1 Growth
+* [ ] Day1 Kingdom
+* [ ] Day1 清明梦超能力者黄YY
+* [ ] Day1 最短路
+
+* [x] Day2 Love Live!
+* [ ] Day2 Baldr Sky
+* [ ] Day2 One Piece
+* [ ] Day2 Princess Principal
+* [ ] Day2 Tengen Toppa Gurren Lagann
+
+* [x] Day3 Tree
+* [ ] Day3 Two Graphs
+* [ ] Day3 Trophies
+* [ ] Day3 Palindrome
+* [ ] Day3 Metropolis
+
+* [ ] Day4 我不爱她
+* [ ] Day4 数论之神
+* [ ] Day4 友谊巨轮
+* [ ] Day4 人渣本愿
+* [ ] Day4 奇迹暖婊
