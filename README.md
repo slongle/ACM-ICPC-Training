@@ -82,7 +82,7 @@ Wannafly Camp 2018
 * [ ] Day3 Metropolis
 
 * [ ] Day4 我不爱她
-* [ ] Day4 数论之神
+* [x] Day4 数论之神
 * [ ] Day4 友谊巨轮
 * [ ] Day4 人渣本愿
 * [ ] Day4 奇迹暖婊
