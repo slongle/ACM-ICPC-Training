@@ -81,8 +81,12 @@ Wannafly Camp 2018
 * [ ] Day3 Palindrome
 * [ ] Day3 Metropolis
 
-* [ ] Day4 我不爱她
-* [x] Day4 数论之神
-* [ ] Day4 友谊巨轮
-* [ ] Day4 人渣本愿
-* [ ] Day4 奇迹暖婊
+* [ ] Day4 我不爱她  
+* [x] Day4 数论之神   
+* [ ] Day4 友谊巨轮  
+* [ ] Day4 人渣本愿  
+* [ ] Day4 奇迹暖婊  
+
+2018-09-02  
+ARC102 C/D/E  
+combination*2 
